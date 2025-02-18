@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Складдирование 
+# Складирование 
 
 _Работа от МБОУ Лицея №15 г. Саров_
 
