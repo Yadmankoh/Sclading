@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Складдирование 
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Работа от МБОУ Лицея №15 г. Саров_
 
 </header>
 
